@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Privacy
+admin.json
+likelion_9th_Reruiting.csv
